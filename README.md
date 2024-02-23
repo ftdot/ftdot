@@ -1,4 +1,6 @@
-<h3 style="text-align: center" align="center">feat = ft. = ftdot - genius</h3>
+<p style="text-align: center" align="center">
+  also known as <strong>s0meart</strong> | <a href="https://t.me/metah4cker">META HACKER</a>
+</p>
 
 <p align="center">
   <img src="https://github.com/ftdot/ftdot/raw/main/imgs/github-profile.gif" />
@@ -17,5 +19,3 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ftdot&show_icons=true&theme=transparent&hide_title=true&hide_border=true&line_height=19&card_width=350" alt="stats"></a>
   <a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ftdot&theme=transparent&hide_border=true&layout=compact&card_width=350" alt="rj"></a>
 </div>
-
-*also known as* **s0meart** | [META HACKER](https://t.me/metah4cker)
