@@ -6,7 +6,7 @@
   <img src="https://github.com/ftdot/ftdot/raw/main/imgs/github-profile.gif" />
 </p>
 <p align="center">
-  <a href="https://t.me/ftdot"><img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&amp;logo=Telegram&amp;logoColor=white" alt="tg"></a>
+  <a href="https://t.me/ftdotdev"><img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&amp;logo=Telegram&amp;logoColor=white" alt="tg"></a>
   <a href="https://pypi.org/user/ftdot/"><img src="https://img.shields.io/badge/PyPI-3775A9.svg?style=for-the-badge&amp;logo=PyPI&amp;logoColor=white" alt="pypi"></a>
   <a href="#"><img src="https://img.shields.io/badge/Rust-000000.svg?style=for-the-badge&amp;logo=Rust&amp;logoColor=white" alt="rst"></a>
   <a href="#"><img src="https://img.shields.io/badge/Golang-29BEB0.svg?style=for-the-badge&amp;logo=Go&amp;logoColor=white" alt="golang"></a>
