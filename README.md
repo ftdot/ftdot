@@ -1,5 +1,5 @@
 <p style="text-align: center" align="center">
-  also known as <strong>s0meart</strong> | <a href="https://t.me/metah4cker">META HACKER</a>
+  <strong>DEVELOPER</strong> | <a href="https://t.me/ftdotdev">MY TELEGRAM CHANNEL</a>
 </p>
 
 <p align="center">
